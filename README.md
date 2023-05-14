@@ -26,8 +26,10 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sachinthaniyangoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IT21194962" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sankalpa.disanayaka.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankalpa.dissanayaka.39" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sankalpa.disanayaka.39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpa.dissanayaka.39" height="30" width="40" /></a>
+  
+<a href="https://web.facebook.com/sachinthahasaranga.sachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachintha hasaranga" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/sachintha_hasaranga_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachintha hasaranga" height="30" width="40" /></a>
 
 </p>
 
