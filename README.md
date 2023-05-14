@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sankalpa-dissanayaka-551578212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalpa-dissanayaka-551578212" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachinthaniyangoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IT21194962" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sankalpa.disanayaka.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankalpa.dissanayaka.39" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sankalpa.disanayaka.39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpa.dissanayaka.39" height="30" width="40" /></a>
 
