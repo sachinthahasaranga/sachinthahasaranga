@@ -18,7 +18,7 @@
 <!-- world animation -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150"> </a> </div>
-
+<div>![](https://komarev.com/ghpvc/?username=IT21194962)</div>
 
 
 <h3 align="left">Connect with me:</h3>
