@@ -19,6 +19,8 @@
 <div align="left">
 <img src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150"> </a> </div>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /></p>
+
 <!-- Programmer image-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IT21194962&label=Profile%20views&color=0e75b6&style=flat" alt="IT21194962" /></p>
 
