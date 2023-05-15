@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a> </div>
 
 <!-- world animation -->
-<div align="center">
+<div align="left">
 <img src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150"> </a> </div>
 
 <!-- Programmer image-->
