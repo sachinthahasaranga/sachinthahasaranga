@@ -19,9 +19,10 @@
 <div align="left">
 <img src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150"> </a> </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /></p>
+<!--programmer-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
 
-<!-- Programmer image-->
+<!-- profile view-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IT21194962&label=Profile%20views&color=0e75b6&style=flat" alt="IT21194962" /></p>
 
 <h3 align="left">Connect with me:</h3>
