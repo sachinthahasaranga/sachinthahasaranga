@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">👨‍ Hello There, I'm <a href="https://github.com/IT21194962">Sachintha Hasaranga</a></h1></center>
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><a href="https://github.com/IT21194962">👨‍ Hello There, I'm Sachintha Hasaranga</a></h1></center>
 
 <!--header-->
 <h3 align="center">FullStack Developer From Sri Lanka
