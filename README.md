@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><a href="https://github.com/IT21194962">👨‍ Hello There, I'm Sachintha Hasaranga</a></h1></center>
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><a href="https://github.com/sachinthahasaranga">👨‍ Hello There, I'm Sachintha Hasaranga</a></h1></center>
 
 <!--header-->
 <h3 align="center">FullStack Developer From Sri Lanka
@@ -23,12 +23,12 @@
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br> -->
 
 <!-- profile view-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IT21194962&label=Profile%20views&color=0e75b6&style=flat" alt="IT21194962" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinthahasaranga&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthahasaranga" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sachinthaniyangoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IT21194962" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachinthaniyangoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachinthahasaranga" height="30" width="40" /></a>
 <a href="https://web.facebook.com/sachinthahasaranga.sachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachintha hasaranga" height="30" width="40" /></a>  <a href="https://www.instagram.com/sachintha_hasaranga_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachintha hasaranga" height="30" width="40" /></a>
 
 </p>
@@ -39,9 +39,9 @@
 <hr>
 <br>
 <!-- GitHub Stats-->
-<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=IT21194962&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sachinthahasaranga&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
 <!--GitHub Languages-->
-<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21194962&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinthahasaranga&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=It21194962&theme=dark&hide_border=true" alt="IT21194962" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinthahasaranga&theme=dark&hide_border=true" alt="sachinthahasaranga" /></p>
